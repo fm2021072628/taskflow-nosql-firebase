@@ -27,3 +27,10 @@ dist-ssr
 .env
 .env.*
 !.env.example
+
+
+# Firebase
+.firebase/
+
+# Archivos locales de herramientas
+.agents/
